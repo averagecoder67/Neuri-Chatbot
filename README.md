@@ -1,2 +1,2 @@
 # Neuri-Chatbot
-A chatbot
+quick little chatbot i made at school
